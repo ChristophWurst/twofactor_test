@@ -2,7 +2,7 @@
 <info>
 	<id>twofactor_test</id>
 	<name>Two Factor Test Provider</name>
-	<description>An Two-Factor-Auth Test Provider for ownCloud 9.1</description>
+	<description>An Two-Factor-Auth Test Provider</description>
 	<licence>AGPL</licence>
 	<author>Christoph Wurst</author>
 	<version>0.0.1</version>
@@ -18,6 +18,6 @@
 	</two-factor-providers>
 
 	<dependencies>
-		<owncloud min-version="9.1" max-version="9.1" />
+		<owncloud min-version="9.1" max-version="9.2" />
 	</dependencies>
 </info>
